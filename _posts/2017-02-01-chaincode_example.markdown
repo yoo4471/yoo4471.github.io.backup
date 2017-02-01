@@ -27,14 +27,6 @@ Chaincode interface must be implemented by all chaincodes. The fabric runs the t
 
 #### chaincode.go    
 
-	$GOPATH/src/github.com/hyperledger/fabric/core/chaincode/shim/chaincode.go	
-  
- 
-#test
+	$GOPATH/src/github.com/hyperledger/fabric/core/chaincode/shim/chaincode.go
 
-
-
-  
- 
-
-
+# test
