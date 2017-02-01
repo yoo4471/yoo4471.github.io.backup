@@ -1,4 +1,17 @@
-# hyper ledger / fabricfabric
+---
+layout:     post
+title:      "Hyperledger"
+subtitle:   "Fabric"
+date:       2017-02-01
+author:     "Yns"
+header-img: "img/post-bg-2015.jpg"
+tags:
+    - Hyherledger
+    - Fabric
+    - Blockchain
+---
+
+# hyper ledger / fabric
 
 #### fabric repo - [github](https://github.com/hyperledger/)
  
