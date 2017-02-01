@@ -18,7 +18,7 @@ tags:
 	git clone https://github.com/hyperledger/fabric  
     
  
-#### interface  
+#### interface test
 
 	$GOPATH/src/github.com/hyperledger/fabric/core/chaincode/shim/interfaces.go  
 
