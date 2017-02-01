@@ -5,7 +5,7 @@ header-img: img/home-bg.jpg
 email: bell1346@gmail.com
 description: ""
 keyword: ""
-url: "https://yoo4471.github.io/index"              # your host, for absolute URL
+url: "https://yoo4471.github.io"              # your host, for absolute URL
 baseurl: ""         # for example, '/blog' if your blog hosted on 'host/blog'
 
 
@@ -82,19 +82,13 @@ featured-condition-size: 1              # A tag will be featured if the size of 
 # Friends
 friends: [
     {
-        title: "Yns Blog",
-        href: "#"
+        title: "Git",
+        href: "http://rogerdudler.github.io/git-guide/index.ko.html"
     },{
-        title: "Foo",
-        href: "#"
+        title: "A Tour of Go",
+        href: "https://go-tour-kr.appspot.com/"
     },{
-        title: "Bar",
-        href: "#"
-    },{
-        title: "Example Friends",
-        href: "#"
-    },{
-        title: "It helps SEO",
-        href: "#"
+        title: "예제로 배우는 GO 프로그래밍",
+        href: "http://golang.site"
     }
 ]
