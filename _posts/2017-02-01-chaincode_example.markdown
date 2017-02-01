@@ -18,7 +18,8 @@ tags:
 	git clone https://github.com/hyperledger/fabric  
     
  
-#### interface.go
+#### interface.go  
+
 	$GOPATH/src/github.com/hyperledger/fabric/core/chaincode/shim/interfaces.go  
 
 Chaincode interface must be implemented by all chaincodes. The fabric runs the transactions by calling these functions as specified.    
