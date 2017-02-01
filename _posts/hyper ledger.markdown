@@ -1,25 +1,11 @@
----
-layout:     post
-title:      "Hyperledger"
-subtitle:   "Fabric"
-date:       2017-02-01
-author:     "Yns"
-header-img: "img/post-bg-2015.jpg"
-tags:
-    - Hyherledger
-    - Fabric
-    - Blockchain
----
-
 # hyper ledger / fabric
 
 #### fabric repo - [github](https://github.com/hyperledger/)
  
 	git clone https://github.com/hyperledger/fabric  
-
-
-#### interface test
-
+    
+ 
+#### interface.go
 	$GOPATH/src/github.com/hyperledger/fabric/core/chaincode/shim/interfaces.go  
 
 Chaincode interface must be implemented by all chaincodes. The fabric runs the transactions by calling these functions as specified.    
@@ -28,7 +14,6 @@ Chaincode interface must be implemented by all chaincodes. The fabric runs the t
 >'chaincode.go'에서 함수의 세부적인 내용 작성
   
  
-
 #### chaincode.go    
 
 	$GOPATH/src/github.com/hyperledger/fabric/core/chaincode/shim/chaincode.go	
