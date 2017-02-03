@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      "Chaincode - RestAPI"
-subtitle:   "chaincode_example02"
+title:      "Chaincode_example02 실습"
+subtitle:   "Hyperledger, Fabric, Blockchain, CHaincode, Postman"
 date:       2017-02-03
 author:     "Yns"
 header-img: "img/post-bg-2015.jpg"
