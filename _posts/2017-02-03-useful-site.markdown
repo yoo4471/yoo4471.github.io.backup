@@ -29,6 +29,12 @@ tags:
 	- [Learn how to write chaincode.](https://github.com/IBM-Blockchain/learn-chaincode)
 	- [IBM Blockchain - Marbles Demo](https://github.com/IBM-Blockchain/marbles)
 
+- 먼저 시작해 보는 블록체인 - Moojae Kong
+	- [(1) 블록체인 기본 : 공유원장에 대한 소개](https://developer.ibm.com/kr/cloud/bluemix/2017/01/08/blockchain-basic-01-introduction-to-distributed-ledgers/)
+	- [(2) Hyperledger Fabric](https://developer.ibm.com/kr/cloud/bluemix/blockchain/2017/01/15/blockchain-basic-02-hyperledger-fabric-overview/)
+	- [(3) Hyperledger Fabric 개발 환경 구성](https://developer.ibm.com/kr/cloud/bluemix/blockchain/2017/01/26/blockchain-basic-03-build_development_environment/)
+	- [(4) 개발 모드에서 스마트 컨트랙(체인코드) 개발](https://developer.ibm.com/kr/cloud/bluemix/blockchain/2017/01/26/hyperledger_fabric_chaincode_develpement_by_devmode/)
+
 
 ### Docker
 
