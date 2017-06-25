@@ -5,14 +5,13 @@ subtitle:   "Linux, Python, Blockchain, Docker, Git, GoLang"
 date:       2017-02-03
 author:     "Yns"
 header-img: "img/post-bg-2015.jpg"
-tags:
-    - Linux
-    - Python
-    - Blockchain
-    - Docker
-    - Git
-    - GoLang
+tags: ""
 ---
+
+### Zookeeper  
+- [Zookeeper를 이용한 분산코디네이터 구성](https://www.joinc.co.kr/w/man/12/zookeeper/tutorial)
+
+
 
 ### Blockchain
 
@@ -53,7 +52,7 @@ tags:
 - [예제로 배우는 GO 프로그래밍](http://golang.site)
 - [A Tour of Go](https://go-tour-kr.appspot.com)
 
-### Linux 
+### Linux
 
 - [자주 사용하는 vi 편집기 명령어](http://roketdive.tistory.com/80)
 - [스카웃 리눅스 강좌](http://blog.naver.com/skout123/50129184315)
